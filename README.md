@@ -1,9 +1,9 @@
 # Chess-Robotic-Arm (Voice Recognition)
-Here’s a detailed **README.md** file for your voice recognition repository:
+
 
 ---
 
-# Voice Recognition Technology for Chess Robot
+
 
 ## Project Overview  
 This voice recognition system empowers disabled players to interact with a chess robot by using natural voice commands. It bridges the gap between voice input and physical chess moves, enhancing accessibility and engagement. The purpose is to ensure every individual can enjoy chess effortlessly, creating a seamless experience. **By integrating advanced voice recognition with chess logic, the system translates player commands into physical movements on the board.**
